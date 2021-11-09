@@ -35,6 +35,7 @@ else:
 
 ALLOWED_HOSTS = ['alexisralmeida.pythonanywhere.com','127.0.0.1']
 
+print("SECRET_KEY:", SECRET_KEY)
 
 # Application definition
 
